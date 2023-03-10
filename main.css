@@ -47,4 +47,17 @@ h2 {
 	height: auto
 }
 
+a {
+    color: #313131;
+	background-color: #313131;
+	text-decoration-style: wavy;
+}
 	
+a:visited {
+	color: #313131;
+	background-color: #313131	
+}
+
+a:hover {
+	background-color: color: rgb(102, 153, 153);
+}
